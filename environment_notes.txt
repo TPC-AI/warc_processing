@@ -1,0 +1,5 @@
+Notes on what I tried to set up an environment on polaris.alcf.anl.gov.
+
+ 1012  conda create -n warcio python=3.7
+ 1013  conda activate  warcio
+ 1015  pip install warcio
